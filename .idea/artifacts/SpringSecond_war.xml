@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringSecond.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringSecond_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringSecond.war" />
+    </root>
+  </artifact>
+</component>
